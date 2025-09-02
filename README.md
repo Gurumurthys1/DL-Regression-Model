@@ -136,10 +136,13 @@ print(f"\nPrediction for x = 120: {y_new_pred:.8f}")
 
 ### OUTPUT
 
+Dataset Information
 ![alt text](image.png)
 
+Training Loss Vs Iteration Plot
 ![alt text](image-1.png)
 
+Best Fit line plot
 ![alt text](image-2.png)
 
 ## RESULT
