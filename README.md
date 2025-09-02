@@ -148,8 +148,8 @@ Training Loss Vs Iteration Plot
 
 Loss Curve
 <br/>
+<img width="580" height="455" alt="image" src="https://github.com/user-attachments/assets/6e501cc5-9007-4283-a14b-747e30bd223e" />
 
-![alt text](image-3.png)
 
 
 
