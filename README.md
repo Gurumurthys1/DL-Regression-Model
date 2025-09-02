@@ -137,13 +137,30 @@ print(f"\nPrediction for x = 120: {y_new_pred:.8f}")
 ### OUTPUT
 
 Dataset Information
+<br/>
+
 ![alt text](image.png)
 
 Training Loss Vs Iteration Plot
+<br/>
+
 ![alt text](image-1.png)
 
+Loss Curve
+<br/>
+
+![alt text](image-3.png)
+
+
+
 Best Fit line plot
+<br/>
+
+
+
 ![alt text](image-2.png)
+
+
 
 ## RESULT
 Thus, a neural network regression model was successfully developed and trained using PyTorch.
