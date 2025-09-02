@@ -100,7 +100,7 @@ for epoch in range(1, epochs + 1):  # Loop over epochs
     optimizer.step()
 # Plot Loss Curve
 
-plt.plot(range(epochs), losses, color='blue')
+plt.plot(range(epochs), [l.item() for l in losses], color='blue')
 plt.ylabel('Loss')
 plt.xlabel('Epoch')
 plt.title('Loss Curve')
